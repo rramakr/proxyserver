@@ -4,7 +4,7 @@
   "description": "NodeJS BootCamp",
   "main": "index.js",
   "scripts": {
-    "start": "bode index.js"
+    "start": "bode index.js --log logmon.log"
   },
   "repository": {
     "type": "git",
